@@ -7,6 +7,8 @@ Android ViewPager多屏显示、切换动画，让你的轮播炫起来····�
 
 
 Android 玩转PathMeasure之自定义支付结果动画·······[点我](https://www.jianshu.com/p/79f5e6d0e769) 
+
+
 ![](https://upload-images.jianshu.io/upload_images/16311248-aca31f68ca9bb1fa.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/367/format/webp) 
 
 Android 自定义弧形旋转菜单栏——卫星菜单·······[点我](https://www.jianshu.com/p/220da4460e5d)  
