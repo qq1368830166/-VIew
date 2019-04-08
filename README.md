@@ -25,3 +25,18 @@ Android自定义向右滑动流动抽屉效果·······[点我](https://git
 
 Android自定义炫酷的Switch图标的Google启动器风格实现·······[点我](https://github.com/zagum/Android-SwitchIcon)  
 ![](https://github.com/zagum/Android-SwitchIcon/raw/master/art/sample.gif) 
+
+仿饿了么 带伸缩位移旋转动画的购物车按钮·······[点我](https://github.com/mcxtzhang/AnimShopButton)  
+![](https://github.com/mcxtzhang/AnimShopButton/raw/master/gif/new.gif) 
+
+Android自定义控制录音状态的按钮·······[点我](https://github.com/hluhovskyi/HoldingButton)  
+![](https://github.com/hluhovskyi/HoldingButton/raw/master/_arts/example.gif) 
+
+Android自定义实用酷炫又优雅的提交按钮·······[点我](https://github.com/SparkYuan/SubmitButton)  
+![](https://github.com/SparkYuan/SubmitButton/raw/master/pic/submitbutton.gif) 
+
+Android自定义iOS这样的圆形进度按钮·······[点我](https://github.com/jiang111/CProgressButton)  
+![](https://raw.githubusercontent.com/jiang111/CProgressButton/master/art/art2.gif) 
+
+
+
