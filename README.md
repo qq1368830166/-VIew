@@ -39,4 +39,25 @@ Android自定义iOS这样的圆形进度按钮·······[点我](https://git
 ![](https://raw.githubusercontent.com/jiang111/CProgressButton/master/art/art2.gif) 
 
 
+一个可配置及自定义拓展漂浮路径的迷你版轻量级 MagicFlyLinearLayout 漂浮控件·······[点我](https://github.com/yanbober/MagicFloatView)  
+![](https://github.com/yanbober/MagicFloatView/raw/master/.picture/view.gif) 
+
+
+Android 自定义一个2d圆球加载 MetaballLoading·······[点我](https://github.com/dodola/MetaballLoading)  
+![](https://github.com/dodola/MetaballLoading/raw/master/metaball.gif) 
+
+Android加载视图动画 AnimatedCircleLoadingView·······[点我](https://github.com/jlmd/AnimatedCircleLoadingView)  
+![](https://github.com/jlmd/AnimatedCircleLoadingView/raw/master/art/indeterminate_ok.gif) 
+
+Android 具有粘性的滑动小球loading ·······[点我](https://github.com/yxping/AdhesiveLoadingView)  
+![](https://github.com/yxping/AdhesiveLoadingView/raw/master/half2.gif) 
+
+
+
+
+
+
+
+
+
 
