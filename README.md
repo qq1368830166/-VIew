@@ -52,7 +52,8 @@ Android加载视图动画 AnimatedCircleLoadingView·······[点我](https:
 Android 具有粘性的滑动小球loading ·······[点我](https://github.com/yxping/AdhesiveLoadingView)  
 ![](https://github.com/yxping/AdhesiveLoadingView/raw/master/half2.gif) 
 
-
+提示通知栏的各种动画 ·······[点我](https://github.com/sd6352051/NiftyNotification)  
+![](https://raw.githubusercontent.com/sd6352051/NiftyNotification/master/screenshot/ss.gif) 
 
 
 
